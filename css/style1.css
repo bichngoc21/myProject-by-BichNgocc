@@ -1,0 +1,11 @@
+/*định dạng bảng*/
+table{
+	width: 80%;
+}
+
+table, th, td{
+	width: 50%;
+	bolder: 2px solid #fe8a83;
+	border-collapse: collapse;
+}
+
